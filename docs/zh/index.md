@@ -37,13 +37,5 @@ features:
   - title: 蘿蔔服
     details: 你好喵，欢迎喵
     link: /docs/carrot/
-<<<<<<< Updated upstream
-    linkText: 了解一下
-  - title: 魔法服
-    details: 史诗级爆炸魔法干坏服务器
-    link: /docs/magic/
-    linkText: 了解一下
-=======
     linkText: 炼一下
->>>>>>> Stashed changes
 ---
