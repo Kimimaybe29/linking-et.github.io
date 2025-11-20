@@ -52,16 +52,6 @@ export const sidebar = {
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     },
-<<<<<<< Updated upstream
-                    {
-                        text: '锌服',
-                        items:[
-                            { text: '简介', link: '/docs/zincium/' },
-                            //{ text: '成员', link: '/docs/zincium/team' },
-                        ]
-                    },
-=======
->>>>>>> Stashed changes
                 ]
             },
             {
