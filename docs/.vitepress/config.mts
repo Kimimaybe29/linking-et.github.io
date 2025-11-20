@@ -63,7 +63,7 @@ export default defineConfig({
   themeConfig: {
     lastUpdated:false,
     i18nRouting: true,
-    logo: '/res/img/logo.png',
+    logo: '/res/img/logo.webp',
     siteTitle: false,
   },
   rewrites: {

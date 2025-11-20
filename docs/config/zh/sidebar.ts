@@ -17,7 +17,7 @@ export const sidebar = {
                     { text: '显示皮肤', link: '/docs/guide/skin' },
                     { text: '常见问题解答', link: '/docs/guide/faq' },
                     { text: '添加名单', link: '/docs/guide/howtopr' },
-                    { text: '赞助支持我们', link: '/docs/guide/donate' },
+                    { text: '赞助复活赛', link: '/docs/guide/donate' },
                 ]
             },
             {
@@ -52,6 +52,7 @@ export const sidebar = {
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     },
+<<<<<<< Updated upstream
                     {
                         text: '魔法服',
                         items:[
@@ -59,6 +60,8 @@ export const sidebar = {
                             //{ text: '成员', link: '/docs/carrot/team' },
                         ]
                     },
+=======
+>>>>>>> Stashed changes
                 ]
             },
             {

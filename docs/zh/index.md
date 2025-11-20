@@ -4,11 +4,11 @@ layout: home
 gitChangelog: false
 
 hero:
-  name: "Linking-ET"
+  name: "LinKing-ET"
   text: "欢迎来到LET群组服！"
-  tagline: Link everything!
+  tagline: 复活赛中……
   image:
-    src: res/img/cover_full.png
+    src: res/img/cover_full.webp
     alt: VitePress
   actions:
     - theme: brand
@@ -18,14 +18,14 @@ hero:
       text: 游玩教学
       link: /docs/guide/
     - theme: alt
-      text: 服务实时监控
+      text: 查看复活赛进程……
       link: https://status.link-et.link
 
 features:
   - title: Kimi的万事屋
     details: 欢迎光临！
     link: /docs/kimi/
-    linkText: 快点我快点我
+    linkText: RUA一下？
   - title: 淡水之域
     details: 杂鱼淡水喵
     link: /docs/water/
@@ -37,9 +37,13 @@ features:
   - title: 蘿蔔服
     details: 你好喵，欢迎喵
     link: /docs/carrot/
+<<<<<<< Updated upstream
     linkText: 了解一下
   - title: 魔法服
     details: 史诗级爆炸魔法干坏服务器
     link: /docs/magic/
     linkText: 了解一下
+=======
+    linkText: 炼一下
+>>>>>>> Stashed changes
 ---
