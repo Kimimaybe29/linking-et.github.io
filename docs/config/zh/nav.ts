@@ -4,6 +4,14 @@ import {DefaultTheme} from "vitepress";
 
 export const nav: DefaultTheme.NavItem[] = [
     { text: '主页', link: '/' },
+    { text: '友情链接',
+        items:[
+            { text: 'MSCPO - Minecraft服务器集体宣传组织', link: 'https://www.mscpo.top/' },
+            { text: 'SWAnetwork - 你的上一个Minecraft服务器', link: 'https://www.swamc.top/' },
+            { text: 'EggMC - 你的这一个Minecraft服务器', link: 'https://eggmc.top/' },
+            { text: 'KlpMC - 你的下一个Minecraft服务器', link: 'https://klpmc.top/' },
+        ]
+    },
     { text: '了解我们',
         items: [
             { text: '我们是谁？', link: '/docs/about' },
