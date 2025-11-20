@@ -26,7 +26,7 @@ export const nav: DefaultTheme.NavItem[] = [
             { text: '淡水之域', link: '/docs/water/' },
             { text: '叶服',link: '/docs/leaf/' },
             { text: '蘿蔔服',link: '/docs/carrot/' },
-            { text: '魔法服',link: '/docs/magic/' }
+            { text: '锌服',link: '/docs/magic/' }
         ]
     },
     {
@@ -40,7 +40,7 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '其他服务',
         items:[
             {text: '网盘', link:'https://pan.link-et.link'},
-            //{text: '服务器地图', link:'https://map.link-et.link'},
+            {text: '在线地图', link:'https://map.link-et.link'},
         ]
     }
 ];

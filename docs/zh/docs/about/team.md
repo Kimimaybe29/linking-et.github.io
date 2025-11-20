@@ -59,7 +59,7 @@ const coreMembers_owners = [
     ]
     },
     {
-    avatar: '/res/avatar/NYQF.jpg',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1643115033&s=640',
     name: '柠言千枫',
     title: '叶服金主',
     desc: '君主离线制<br>（ps:XC-小陈）',
@@ -75,25 +75,16 @@ const coreMembers_owners = [
     links:[]
     },
     {
-    avatar: '/res/avatar/I_am_a_loliking.png',
-    name: '太阳烤',
-    title: '魔法服腐竹',
+    avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2016811976&s=640',
+    name: 'weiqi',
+    title: '锌服服主',
     desc: '喵喵喵？',
     links:[
-        {icon: 'bilibili',link: 'https://space.bilibili.com/473233505'}
+        {icon: 'bilibili',link: 'https://space.bilibili.com/108415888'}
     ]
     }
 ];
 const coreMembers_ops = [
-    {
-    avatar:'/res/avatar/1749393194-N0HAb1tor.png',
-    name: 'N0HAb1tor',
-    title: '万事屋的管理员',
-    desc: '来个闪电苦力怕拳',
-    links: [
-        {icon: 'bilibili', link: 'https://space.bilibili.com/33391584' }
-    ]
-    },
     {
     avatar:'https://q1.qlogo.cn/g?b=qq&nk=3556314884&s=640',
     name: 'ElfPlayer887454',

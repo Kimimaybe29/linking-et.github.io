@@ -4,7 +4,10 @@
       <p class="vp-footer-copyright">
         Copyright &copy; {{ currentYear }} LinKing-ET.
       </p>
-      <p class="vp-footer-poweredby">
+      <p class="vp-footer-copyright">
+          "Minecraft"以及"我的世界"为美国微软公司的商标 本站与微软公司没有从属关系
+      </p>
+      <p class="vp-footer-powered-by">
         Powered by <a href="https://vitepress.dev/" target="_blank" rel="noopener">VitePress</a>.
       </p>
     </div>
@@ -40,18 +43,18 @@ const currentYear = ref(new Date().getFullYear());
 }
 
 .vp-footer-copyright,
-.vp-footer-poweredby {
+.vp-footer-powered-by {
   margin: 0;
   line-height: 1.5;
 }
 
-.vp-footer-poweredby a {
+.vp-footer-powered-by a {
   color: var(--vp-c-brand-1);
   text-decoration: none;
   font-weight: 500;
 }
 
-.vp-footer-poweredby a:hover {
+.vp-footer-powered-by a:hover {
   text-decoration: underline;
 }
 </style>

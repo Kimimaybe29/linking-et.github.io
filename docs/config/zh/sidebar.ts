@@ -54,10 +54,10 @@ export const sidebar = {
                     },
 <<<<<<< Updated upstream
                     {
-                        text: '魔法服',
+                        text: '锌服',
                         items:[
-                            { text: '简介', link: '/docs/magic/' },
-                            //{ text: '成员', link: '/docs/carrot/team' },
+                            { text: '简介', link: '/docs/zincium/' },
+                            //{ text: '成员', link: '/docs/zincium/team' },
                         ]
                     },
 =======
