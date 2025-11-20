@@ -32,7 +32,7 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '其他服务',
         items:[
             {text: '网盘', link:'https://pan.link-et.link'},
-            //{text: '服务器地图', link:'https://map.link-et.link'},
+            {text: '在线地图', link:'https://map.link-et.link'},
         ]
     }
 ];
