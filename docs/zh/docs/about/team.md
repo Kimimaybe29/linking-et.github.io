@@ -13,7 +13,7 @@ import {
 
 const coreMembers_owners = [
     {
-    avatar:'/res/avatar/1749393192-Kimimustbe29.png',
+    avatar:'/res/avatar/1749393192-Kimimustbe29.webp',
     name: 'Kimimaybe29',
     title: 'Kimi的万事屋服主',
     desc: '群组服最大金主<br>神级屎山代码之手<br>欢迎来我的个人网站看看<br>↓',
@@ -70,7 +70,7 @@ const coreMembers_owners = [
     {
     avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1634765962&s=640',
     name: '水萝卜_CafeChannel',
-    title: '蘿蔔服主',
+    title: '萝服服主',
     desc: '欸？',
     links:[]
     }
@@ -109,7 +109,7 @@ const coreMembers_ops = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>核心成员名单</template>
-    <template #lead>玩家请到服务器成员登记</template>
+    <template #lead> </template>
   </VPTeamPageTitle>
 <VPTeamPageSection>
     <template #title>服主名单</template>
