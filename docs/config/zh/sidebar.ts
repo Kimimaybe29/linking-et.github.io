@@ -16,7 +16,6 @@ export const sidebar = {
                     { text: '进入大厅', link: '/docs/guide/hub' },
                     { text: '显示皮肤', link: '/docs/guide/skin' },
                     { text: '常见问题解答', link: '/docs/guide/faq' },
-                    { text: '添加名单', link: '/docs/guide/howtopr' },
                     { text: '赞助复活赛', link: '/docs/guide/donate' },
                 ]
             },

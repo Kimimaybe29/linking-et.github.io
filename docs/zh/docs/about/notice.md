@@ -14,4 +14,4 @@
 
 - ### 你目前的日活？（活跃度/玩家问题）
 
-![以儆效尤](/res/img/以儆效尤.png)
+![以儆效尤](/res/img/yijinxiaoyou.webp)
