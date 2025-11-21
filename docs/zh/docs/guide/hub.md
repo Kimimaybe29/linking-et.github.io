@@ -11,7 +11,7 @@ outline: [2,3]
 
 - 当你完成登录，转头看向身后，你会看见五个NPC
 
-![NPC](/res/img/guide/hub/npc.gif)
+![NPC](/res/img/guide/hub/hubpreview.webp)
 
 > [!tip]从左到右：<br>
 > 前往小游戏服<br>
@@ -32,8 +32,9 @@ outline: [2,3]
 | 小游戏区服      | 皮肤提供者: XC小陈<br>正版名: \_XIAOCHEN\_ | ![小游戏区服](/res/img/guide/hub/npcxc.webp) |
 |   前往水服  |  皮肤提供者: 淡水<br>正版名: freshwater111     |  ![前往水服](/res/img/guide/hub/npcwater.webp)  |
 | 前往主服 |    皮肤提供者: Kimimaybe29<br>正版名: Kimimightbe29      |  ![前往主服](/res/img/guide/hub/npckimi.webp)   |
-|前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/hub/npcye.webp)|
-| 后花园 | 皮肤提供者: 呦呦<br>正版: 暂无 | ![后花园](/res/img/guide/hub/npcyoyo.webp) |
+| 前往萝服 | 皮肤提供者: 水萝卜<br>正版: WaterCarrot1145 | ![前往萝服](/res/img/guide/hub/npcluo.webp) |
+| 前往叶服 | 皮肤提供者: 柠言千枫<br>正版: 暂无 | ![前往叶服](/res/img/guide/hub/npcye.webp)|
+
 :::
 
 
