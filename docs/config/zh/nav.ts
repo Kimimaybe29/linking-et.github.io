@@ -32,7 +32,7 @@ export const nav: DefaultTheme.NavItem[] = [
         text:'准则',
         items: [
             { text: '内容编写准则', link:'/docs/rule/EditRule'},
-            { text: '安全发言准则', link: '/docs/rule/MsgRule'},
+            { text: '安全发言准则', link:'/docs/rule/MsgRule'},
         ]
     },
     {
