@@ -28,3 +28,13 @@ const iframeSrc = computed(() => {
 })
 </script>
 
+<style>
+@media (max-width: 640px) {
+    iframe {
+        width: 340px;
+        height: 200px;
+    }
+
+}
+</style>
+
